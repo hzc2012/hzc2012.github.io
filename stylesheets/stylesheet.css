@@ -55,9 +55,10 @@ a {
 
 .page-header {
   color: #fff;
+  height: 50px;
   text-align: center;
   background-color: #002047;
- background-image: linear-gradient(120deg, #002047, #002047); }
+ background-image: linear-gradient(120deg, #000c19, #2a2a2a); }
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -67,7 +68,7 @@ a {
   .page-header {
     padding: 3rem 4rem; } }
 
-@media screen and (max-width: 42em) {
+@media screen and (max-width: 42em)  {
   .page-header {
     padding: 2rem 1rem; } }
 
@@ -247,5 +248,6 @@ a {
 
 .mapdiv{
   text-align: center;
-  margin-top: 1px;}
+  margin-top: 1px;
+  background-color: #fff;}
 
