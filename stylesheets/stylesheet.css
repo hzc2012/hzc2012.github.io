@@ -292,8 +292,9 @@ a {
   width: 50em;
   left: 2em;}
 
-#footer .authorblok {
+.authorblok {
   width: 30em;
+  top: 10em;
   left: 6em;
   margin-left: 2em;
   text-align: left;}
