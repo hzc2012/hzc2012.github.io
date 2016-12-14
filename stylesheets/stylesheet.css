@@ -298,21 +298,22 @@ a {
 #footer .authorblok {
   width: 10em;
   right: 6em;
-  float: right;
+  text-align: right;
   position: absolute;}
 
 .line {
   width: .5em;
   height: 6.25em;
+  position: absolute;
   border-right: .125em solid #fff;}
 
 #page-header .line span {
-  position: absolute;
+ /* position: absolute;*/
   right: 3em;
   margin: 0 0 1.5em;}
 
 .author {
-    position: absolute;
+    /*position: absolute;*/
     top: 5em;
     right: 6em;
     width: 6.875em;
