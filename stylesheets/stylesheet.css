@@ -247,10 +247,24 @@ a {
     font-size: 0.9rem; } }
 
 /**************************************************************************************/
+.footer{
+  text-align: left;
+  background-color: #1f1f1f;}
+
+@media screen and (min-width: 54em) {
+  .footer {
+    padding: 2rem 3rem; } }
+
+@media screen and (min-width: 42em) and (max-width: 54em) {
+  .footer {
+    padding: 1rem 2rem; } }
+
+@media screen and (max-width: 42em)  {
+  .footer {
+    padding: 1rem 0.5rem; } }
 
 .mapdiv{
   text-align: center;
   /*margin-top: 1px;*/
   background-color: #CCC;}
-
 
