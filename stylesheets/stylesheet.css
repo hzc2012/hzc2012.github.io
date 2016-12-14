@@ -297,21 +297,22 @@ a {
   margin-left: 2em;
   text-align: left;}
 
-.line {
+#page-header .line {
   width: .5em;
   height: 6.25em;
+  margin: -7;
   position: absolute;
   border-left: .125em solid #fff;}
 
 #page-header .line span {
   position: absolute;
   left: 3em;
-  margin: 0 0 1.5em;}
+  margin: -7;}
 
 .author {
     position: absolute;
     top: 5em;
-    left: 6em;
+    left: 10em;
     width: 6.875em;
     height: 6.875em;
     margin: 0 auto;
