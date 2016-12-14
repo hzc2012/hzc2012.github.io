@@ -292,8 +292,7 @@ a {
   margin-left: 1px;}
 
 .mytitle {
-  width: 100%;
-  height: 100%;
+  width: 100em;
   left: 2em;}
 
 #footer .authorblok {
