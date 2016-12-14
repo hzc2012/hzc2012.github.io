@@ -56,7 +56,7 @@ a {
 
 .page-header {
   color: #fff;
-  text-align: left;
+  text-align: center;
   background-color: #1f1f1f;
   /*background-image: linear-gradient(120deg, #2d3237, #2a2a2a); */}
 
@@ -293,11 +293,13 @@ a {
 
 .mytitle {
   width: 100em;
+  margin-left: 2em;
   left: 2em;}
 
 #footer .authorblok {
   width: 10em;
   right: 6em;
+  margin-right: 2em;
   text-align: right;
   position: absolute;}
 
@@ -308,12 +310,12 @@ a {
   border-right: .125em solid #fff;}
 
 #page-header .line span {
- /* position: absolute;*/
+  position: absolute;
   right: 3em;
   margin: 0 0 1.5em;}
 
 .author {
-    /*position: absolute;*/
+    position: absolute;
     top: 5em;
     right: 6em;
     width: 6.875em;
