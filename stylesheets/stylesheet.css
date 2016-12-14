@@ -251,6 +251,8 @@ a {
   color: #ccc;
   text-align: center;
   padding: 2px 0px 0px 5px;
+  position: relative;
+  padding-bottom: 3px;
   background-color: #1f1f1f;}
 /*
 @media screen and (min-width: 54em) {
