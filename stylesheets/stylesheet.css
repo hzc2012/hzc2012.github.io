@@ -296,6 +296,12 @@ a {
   height: 100%;
   left: 2em;}
 
+#footer .authorblok {
+width: 10em;
+float: right;
+position: relative;
+}
+
 .line {
   width: .5em;
   height: 6.25em;
