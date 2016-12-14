@@ -289,10 +289,11 @@ a {
 
 .mytitle {
   margin-left: 2em;
+  width: 50em;
   left: 2em;}
 
 #footer .authorblok {
-  width: auto;
+  width: 30em;
   left: 6em;
   margin-left: 2em;
   text-align: left;}
@@ -310,7 +311,7 @@ a {
   margin: 2em;}
 
 .author {
-    position: absolute;
+    /*position: absolute;*/
     top: 5em;
     left: 15em;
     width: 6.875em;
