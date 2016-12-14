@@ -254,15 +254,15 @@ a {
 
 @media screen and (min-width: 54em) {
   .footerfixed {
-    padding: 2rem 3rem; } }
+    padding: 1rem 2rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 54em) {
   .footerfixed {
-    padding: 1rem 2rem; } }
+    padding: 0rem 1rem; } }
 
 @media screen and (max-width: 42em)  {
   .footerfixed {
-    padding: 1rem 0.5rem; } }
+    padding: 1rem 0rem; } }
 
 
 .footer{
@@ -285,30 +285,5 @@ a {
   text-align: center;
   /*margin-top: 1px;*/
   background-color: #1f1f1f;}
-
-
-.footerfixediframe{
-width: 100%;
-height: 30;
-border=: 0;
-overflow-x : hidden; 
-overflow-y : hidden; }
-
-
-.iframediv{
-  text-align: left;
-  background-color: #1f1f1f;}
-
-@media screen and (min-width: 54em) {
-  .iframediv {
-    padding: 2rem 3rem; } }
-
-@media screen and (min-width: 42em) and (max-width: 54em) {
-  .iframediv {
-    padding: 1rem 2rem; } }
-
-@media screen and (max-width: 42em)  {
-  .iframediv {
-    padding: 1rem 0.5rem; } }
 
 
