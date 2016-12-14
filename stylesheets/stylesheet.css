@@ -54,10 +54,10 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
-  text-align: center;
-  background-color: #002047;
-  background-image: linear-gradient(120deg, #000c19, #2a2a2a); }
+  color: #2d3237;
+  text-align: left;
+  background-color: #2d3237;
+  background-image: linear-gradient(120deg, #2d3237, #2a2a2a); }
 
 @media screen and (min-width: 54em) {
   .page-header {
@@ -89,6 +89,7 @@ a {
 
 .project-tagline {
   margin-bottom: 0.5rem;
+  margin-left: 5rem;
   font-weight: normal;
   opacity: 0.7; }
 
@@ -249,6 +250,6 @@ a {
 .mapdiv{
   text-align: center;
   margin-top: 1px;
-  background-color: #444444;}
+  background-color: #fff;}
 
 
