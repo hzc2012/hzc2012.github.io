@@ -287,4 +287,31 @@ a {
   /*margin-top: 1px;*/
   background-color: #1f1f1f;}
 
+.article-content .highlight .line {
+    height: 20px
+}
 
+.author {
+    width: 6.875em;
+    height: 6.875em;
+    margin: 0 auto;
+    background: no-repeat url("../images/webimgs/lf.jpeg") right top;
+    -webkit-background-size: 6.875em 6.875em;
+    -moz-background-size: 6.875em 6.875em;
+    background-size: 6.875em 6.875em;
+    -webkit-border-radius: 3.4375em;
+    border-radius: 3.4375em;
+    -webkit-transition: -webkit-transform 2s ease-out;
+    -moz-transition: -moz-transform 2s ease-out;
+    -o-transition: -o-transform 2s ease-out;
+    -ms-transition: -ms-transform 2s ease-out;
+    transition: transform 2s ease-out;
+}
+
+.author:hover {
+    -webkit-transform: rotateZ(360deg);
+    -moz-transform: rotateZ(360deg);
+    -o-transform: rotateZ(360deg);
+    -ms-transform: rotateZ(360deg);
+    transform: rotateZ(360deg)
+}
