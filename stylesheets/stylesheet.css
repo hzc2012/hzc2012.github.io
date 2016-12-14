@@ -296,10 +296,10 @@ a {
   left: 2em;}
 
 #footer .authorblok {
-width: 10em;
-float: right;
-position: relative;
-}
+  width: 10em;
+  right: 6em;
+  float: right;
+  position: absolute;}
 
 .line {
   width: .5em;
@@ -307,14 +307,14 @@ position: relative;
   border-right: .125em solid #fff;}
 
 #page-header .line span {
-position: absolute;
-right: 3em;
-margin: 0 0 1.5em;
-}
+  position: absolute;
+  right: 3em;
+  margin: 0 0 1.5em;}
 
 .author {
     position: absolute;
-    top: 6em;
+    top: 1em;
+    right: 6em;
     width: 6.875em;
     height: 6.875em;
     margin: 0 auto;
@@ -337,4 +337,12 @@ margin: 0 0 1.5em;
     -o-transform: rotateZ(360deg);
     -ms-transform: rotateZ(360deg);
     transform: rotateZ(360deg)
+}
+
+@media only screen and (min-width: 54em){
+  .author {
+        position: absolute;
+        top: 1em;
+        margin: 0 0 1.5em
+    }
 }
