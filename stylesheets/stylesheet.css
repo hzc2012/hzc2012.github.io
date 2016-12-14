@@ -291,12 +291,25 @@ a {
   text-align: left;
   margin-left: 1px;}
 
+.mytitle {
+  width: 100%;
+  height: 100%;
+  left: 2em;}
+
 .line {
-  width: 3px;
-  height: 20px; 
-  background-color: #fff;}
+  width: .5em;
+  height: 6.25em;
+  border-right: .125em solid #fff;}
+
+#page-header .line span {
+position: absolute;
+right: 3em;
+margin: 0 0 1.5em;
+}
 
 .author {
+    position: absolute;
+    top: 6em;
     width: 6.875em;
     height: 6.875em;
     margin: 0 auto;
