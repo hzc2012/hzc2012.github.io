@@ -287,15 +287,18 @@ a {
   /*margin-top: 1px;*/
   background-color: #1f1f1f;}
 
+.iconmap{
+  text-align: left;
+  margin-left: 1px;}
+
 .article-content .highlight .line {
-    height: 20px
-}
+    height: 20px; }
 
 .author {
     width: 6.875em;
     height: 6.875em;
     margin: 0 auto;
-    background: no-repeat url("../images/webimgs/lf.jpeg") right top;
+    background: no-repeat url("../images/webimgs/lf.jpeg") left top;
     -webkit-background-size: 6.875em 6.875em;
     -moz-background-size: 6.875em 6.875em;
     background-size: 6.875em 6.875em;
