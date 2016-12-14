@@ -288,16 +288,14 @@ a {
   background-color: #1f1f1f;}
 
 .mytitle {
-  width: 100em;
   margin-left: 2em;
   left: 2em;}
 
 #footer .authorblok {
-  width: 10em;
-  right: 6em;
+  width: auto;
+  left: 6em;
   margin-left: 2em;
-  text-align: left;
-  position: absolute;}
+  text-align: left;}
 
 .line {
   width: .5em;
@@ -313,7 +311,7 @@ a {
 .author {
     position: absolute;
     top: 5em;
-    right: 6em;
+    left: 6em;
     width: 6.875em;
     height: 6.875em;
     margin: 0 auto;
