@@ -304,7 +304,6 @@ a {
 .line {
   width: .5em;
   height: 6.25em;
-  position: absolute;
   border-right: .125em solid #fff;}
 
 #page-header .line span {
