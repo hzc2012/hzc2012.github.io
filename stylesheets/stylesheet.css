@@ -297,9 +297,9 @@ a {
   margin-left: 2em;
   text-align: left;}
 
-#page-header .line {
+.line {
   width: .5em;
-  height: 6.25em;
+  height: 6.5em;
   margin: -7;
   position: absolute;
   border-left: .125em solid #fff;}
