@@ -363,6 +363,9 @@ a {
   margin: 5px;
   background-color: #A7A7A7;
 }
+.Bookmarkname{
+  color: #FFF;
+}
 .Bookmarkdetail{
   text-align: center;
   vertical-align: middle;
