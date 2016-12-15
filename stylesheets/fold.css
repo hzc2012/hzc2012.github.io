@@ -24,3 +24,10 @@ dt a:hover{
 dd,p{
 	text-indent: 2em;
 }
+
+
+.logo_zhihu img{
+	margin:10px auto；		
+	border-radius:50%；
+} 
+
