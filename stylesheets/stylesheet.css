@@ -191,7 +191,7 @@ a {
 .main-content dl {
   padding: 0; }
   .main-content dl dt {
-    padding: 0;
+    padding: 1rem;
     margin-top: 1rem;
     font-size: 1rem;
     font-weight: bold; }
@@ -362,12 +362,6 @@ a {
   padding: 5px;
   margin: 5px;
   background-color: #A7A7A7;
-}
-.Bookmarktitle dl dt{
-    padding: 1rem;
-    margin-top: 1rem;
-    font-size: 1rem;
-    font-weight: bold;
 }
 .Bookmarkdetail{
   text-align: center;
