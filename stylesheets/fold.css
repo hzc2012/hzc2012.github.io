@@ -25,9 +25,11 @@ dd,p{
 	text-indent: 2em;
 }
 
-
+/***********************************************/
 .logo_zhihu img{
-	margin:10px auto；		
-	border-radius:50%；
+	margin:10px auto;	
+	border-radius:50%;
 } 
-
+.logo_zhihu a:hover {
+    text-decoration: none; } 
+}
