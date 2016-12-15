@@ -268,6 +268,13 @@ a {
     padding: 1rem 0rem; } }
 */
 
+.copyright a {
+  color: #0cf;
+  text-decoration: none; }
+.copyright a:hover {
+    text-decoration: underline; } 
+}
+
 .footer{
   text-align: right;
   background-color: #1f1f1f;}
@@ -364,6 +371,10 @@ a {
   padding: 5px;
   margin: 5px;
   background-color: #A7A7A7;
+}
+.Bookmarktitle a {
+  font-size:2.5em;
+  font-weight: 900;
 }
 .Bookmarkname{
   color: #FFF;
