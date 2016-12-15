@@ -1,4 +1,4 @@
-var number=5; 
+var number=15; 
 
 function LMYC() {
 var lbmc;
