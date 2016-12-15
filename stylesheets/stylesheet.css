@@ -363,6 +363,12 @@ a {
   margin: 5px;
   background-color: #A7A7A7;
 }
+.Bookmarktitle dl dt{
+    padding: 1rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
 .Bookmarkdetail{
   text-align: center;
   vertical-align: middle;
