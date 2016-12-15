@@ -11,15 +11,15 @@ dt,dt a{
 	height:auto;
 	display:block;
 	font-weight: bold;
-	color:#159957;
+	color:#FFF;
 	font-size:20pt;
 	cursor:pointer;
-	padding: 5px;
+	padding: 2px;
 	text-decoration: none;
 }
 dt a:hover{
-	text-decoration: underline;
-	color: #FF0000;
+	text-decoration: none;
+	color: #FFF;
 }
 dd,p{
 	text-indent: 2em;
