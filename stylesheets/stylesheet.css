@@ -348,7 +348,7 @@ a {
 
 /*Bookmarks blok*/
 .Bookmark{
-  text-align: left;
+  text-align: center;
   width: 100%;
   margin-top: 5px;
 }
@@ -367,7 +367,7 @@ a {
 }
 
 .Bookmarkdetail table {
-display: block;
+display: table;
 width: 100%;
 overflow: auto;
 word-break: normal;
