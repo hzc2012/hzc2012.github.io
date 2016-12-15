@@ -188,7 +188,7 @@ a {
   .main-content table th {
     font-weight: bold; }
   .main-content table th, .main-content table td {
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 0.5rem;
     border: 0px ;
     /*border: 1px solid #e9ebec; */
 }
