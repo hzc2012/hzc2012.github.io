@@ -281,15 +281,15 @@ a {
 
 @media screen and (min-width: 54em) {
   .footer {
-    padding: 2rem 3rem; } }
+    padding: 5rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 54em) {
   .footer {
-    padding: 1rem 2rem; } }
+    padding: 3rem 4rem; } }
 
 @media screen and (max-width: 42em)  {
   .footer {
-    padding: 1rem 0.5rem; } }
+    padding: 2rem 0.5rem; } }
 
 .mapdiv{
   text-align: center;
