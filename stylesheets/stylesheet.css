@@ -278,7 +278,7 @@ a {
 .footer{
   text-align: right;
   background-color: #1f1f1f;}
-
+/*
 @media screen and (min-width: 54em) {
   .footer {
     padding: 5rem 6rem; } }
@@ -290,7 +290,7 @@ a {
 @media screen and (max-width: 42em)  {
   .footer {
     padding: 2rem 0.5rem; } }
-
+*/
 .mapdiv{
   text-align: center;
   /*margin-top: 1px;*/
