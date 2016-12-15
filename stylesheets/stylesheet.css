@@ -392,3 +392,6 @@ overflow: auto;
 word-break: normal;
 word-break: keep-all;
 }
+.Bookmarkdetail table th, .main-content table td {
+    border: 0px; }
+
