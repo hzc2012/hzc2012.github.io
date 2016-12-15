@@ -1,36 +1,11 @@
-/*
-dl{
-width:100%;
-height:auto;
-display:block;
-overflow:hidden;
-margin:0 auto;
-font-size:10pt;
-line-height:160%;}
-dt,dt a{
-	width:100%;
-	height:auto;
-	display:block;
-	font-weight: bold;
-	color:#FFF;
-	font-size:20pt;
-	cursor:pointer;
-	padding: 2px;
-	text-decoration: none;
-}
-dt a:hover{
-	text-decoration: none;
-	color: #FFF;
-}
-dd,p{
-	text-indent: 2em;
-}
-*/
-/***********************************************/
 .logo_zhihu img{
 	margin:10px auto;	
 	border-radius:50%;
 } 
 .logo_zhihu a:hover {
-    text-decoration: none; } 
+	text-decoration: none; 
+	filter:alpha(Opacity=80);-moz-opacity:0.8;opacity: 0.8;} 
 }
+
+
+
