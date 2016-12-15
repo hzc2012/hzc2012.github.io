@@ -295,6 +295,7 @@ a {
 */
 .mapdiv{
   text-align: center;
+  overflow: hidden;
   /*margin-top: 1px;*/
   background-color: #1f1f1f;}
 
