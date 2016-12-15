@@ -345,3 +345,24 @@ a {
         margin: -10em
     }
 }
+
+/*Bookmarks blok*/
+.Bookmark{
+  color: #00969C;
+  text-align: left;
+  padding: 2px;
+  width: 100%;
+  background-color: #E7E7E7;
+}
+.Bookmarktitle{
+  color: #00969C;
+  text-align: left;
+  padding: 2px;
+  background-color: #A7A7A7;
+}
+.Bookmarkdetail{
+  text-align: left;
+  padding: 1px;
+}
+
+
