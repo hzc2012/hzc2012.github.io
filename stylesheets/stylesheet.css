@@ -392,12 +392,19 @@ a {
   vertical-align: middle;
   margin-top: 2px;
 }
-
 .Bookmarkdetail table {
 display: table;
 width: 98%;
 overflow: auto;
 word-break: normal;
 word-break: keep-all;
+}
+.Bookmarkdetail tr td{
+  text-align: left;
+  vertical-align: middle;
+}
+.icons a:hover{
+  color: #0cf;
+  font-weight:bold;
 }
 
