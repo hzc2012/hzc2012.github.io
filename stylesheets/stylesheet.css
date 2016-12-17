@@ -403,6 +403,10 @@ word-break: keep-all;
   text-align: left;
   vertical-align: middle;
 }
+.icons {
+  text-align: left;
+  vertical-align: middle;
+}
 .icons a:hover{
   color: #0cf;
   font-weight:bold;
