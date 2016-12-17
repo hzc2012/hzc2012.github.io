@@ -407,6 +407,9 @@ word-break: keep-all;
   text-align: left;
   vertical-align: middle;
 }
+.icons a{
+  color: #636363;
+}
 .icons a:hover{
   color: #0cf;
   font-weight:bold;
