@@ -19,28 +19,29 @@ a:hover {
 
 .page-header {
 	height: 200px;
-    padding: 0;
-    margin: 0;
+	padding: 0;
+	margin: 0;
 	text-align: center;
 	background-color: #1f1f1f;
 }
 .page-header  .block{
 	height: 100%;
 	width: 900px;
+	text-align: center;
 }
 .main-content {
 	height: 390px;
 	width: 100%;
-    padding: 0;
-    margin: 0;
+	padding: 0;
+	margin: 0;
 	text-align: center;
 	background-color: #ccc;
 }
 .footer{
 	height: 320px;
 	width: 100%;
-    padding: 0;
-    margin: 0;
+	padding: 0;
+	margin: 0;
 	text-align: center;
 	background-color: #1f1f1f;
 }
@@ -51,6 +52,12 @@ a:hover {
 	margin: 0;
 	background-color: #1f1f1f;
 }
+.footerfixed .copyright {
+	color: #0cf;
+	padding: 0;
+	margin: 0;
+	text-decoration: none; 
+}
 
 .copyright a {
 	color: #0cf;
@@ -59,29 +66,17 @@ a:hover {
 .copyright a:hover {
 	text-decoration: underline; }
 
-/***********************************************/
-.mapdiv{
-  text-align: center;
-  overflow: hidden;
-  /*margin-top: 1px;*/
-  background-color: #1f1f1f;}
-
 .mytitle {
-  margin-right: 2em;
-  right: 2em;}
+	color: #fff;
+	margin-top: 30px;
+	margin-right: 50px;}
 
-.project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem; }
-
-  
 .authorblok {
-  width: 30em;
+  width: 10em;
   top: 10em;
   left: 6em;
   margin-left: 2em;
   text-align: left;}
-
 
 .author {
     /*position: absolute;*/
