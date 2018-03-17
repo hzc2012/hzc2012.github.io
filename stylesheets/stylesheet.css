@@ -19,32 +19,42 @@ a:hover {
 
 .page-header {
 	height: 200px;
-	padding: 0;
-	margin: 0;
 	text-align: center;
 	background-color: #1f1f1f;
 }
 .page-header  .block{
 	height: 100%;
 	width: 900px;
-	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 .main-content {
 	height: 390px;
 	width: 100%;
-	padding: 0;
 	margin: 0;
 	text-align: center;
 	background-color: #ccc;
 }
+.main-content .block2{
+	height: 100%;
+	width: 900px;
+	margin: auto;
+	background: no-repeat url("../images/webimgs/tree01.png");
+}
+
 .footer{
-	height: 320px;
+	height: 330px;
 	width: 100%;
-	padding: 0;
-	margin: 0;
 	text-align: center;
 	background-color: #1f1f1f;
 }
+.footer .block3{
+	height: 100%;
+	width: 900px;
+	margin: auto;
+	background: no-repeat url("../images/webimgs/tree02.png");
+}
+
 .footerfixed{
 	color: #ccc;
 	text-align: center;
@@ -53,7 +63,7 @@ a:hover {
 	background-color: #1f1f1f;
 }
 .footerfixed .copyright {
-	color: #0cf;
+	color: #ccc;
 	padding: 0;
 	margin: 0;
 	text-decoration: none; 
@@ -67,19 +77,24 @@ a:hover {
 	text-decoration: underline; }
 
 .mytitle {
+	text-align: right;
 	color: #fff;
-	margin-top: 30px;
-	margin-right: 50px;}
-
+	width: 700px;
+	height: 100%;
+	float:right;}
+	
+.mytitle  h1{
+		font-size: 40px;
+		padding-top: 30px;
+		line-height: 0;}
+	
 .authorblok {
-  width: 10em;
-  top: 10em;
-  left: 6em;
-  margin-left: 2em;
-  text-align: left;}
+	width: 200px;
+	height: 100%;
+	padding-top: 30px;
+	float:left;}
 
 .author {
-    /*position: absolute;*/
     top: 5em;
     left: 15em;
     width: 6.875em;
@@ -105,5 +120,4 @@ a:hover {
     -ms-transform: rotateZ(360deg);
     transform: rotateZ(360deg)
 }
-/***********************************************/
 
