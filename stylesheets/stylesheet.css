@@ -1,6 +1,6 @@
 * {
 	box-sizing: border-box; }
-
+	
 body {
 	background-color: #CCC;
 	padding: 0;
@@ -39,7 +39,12 @@ a:hover {
 	height: 100%;
 	width: 900px;
 	margin: auto;
-	background: no-repeat url("../images/webimgs/tree01.png");
+	background-image:url("../images/webimgs/tree01.png");
+	/*background: no-repeat url("../images/webimgs/tree01.png");*/
+}
+.main-content .block2:hover {
+	opacity:0.8;
+	filter:alpha(opacity=80);
 }
 
 .footer{
@@ -53,6 +58,10 @@ a:hover {
 	width: 900px;
 	margin: auto;
 	background: no-repeat url("../images/webimgs/tree02.png");
+}
+.footer .block3:hover {
+	opacity:0.8;
+	filter:alpha(opacity=80);
 }
 
 .footerfixed{
@@ -84,9 +93,10 @@ a:hover {
 	float:right;}
 	
 .mytitle  h1{
-		font-size: 40px;
-		padding-top: 30px;
-		line-height: 0;}
+	text-shadow:0px 3px 2px #fff;
+	font-size: 40px;
+	padding-top: 30px;
+	line-height: 0;}
 	
 .authorblok {
 	width: 200px;
@@ -100,6 +110,7 @@ a:hover {
     width: 6.875em;
     height: 6.875em;
     margin: 0 auto;
+	/*box-shadow: 0px 0px 20px #fff;*/
     background: no-repeat url("../images/webimgs/lf.jpeg") right top;
     -webkit-background-size: 6.875em 6.875em;
     -moz-background-size: 6.875em 6.875em;
