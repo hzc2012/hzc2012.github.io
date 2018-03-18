@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="stylesheets/bookmarks.css" media="screen">
     <script type="text/javascript" src="js/mouse.js"></script>
   </head>
   <body>
@@ -20,11 +21,12 @@
 		<div class="authorblok">
 		<div class="line">
 			<a href=""><div class="author"></div></a>
-			<a style="color: #ccc;" href="">Click me to my blog</a>
+			<div class="hideshow" onclick="showDiv()">Show Bookmarks</div>
 		</div></div>
 		</div>
     </section>
 
+	<div id="bookmark" style="display:none;"> bookmark</div>
     <!-- main -->
     <section class="main-content">
 	<div class="block2"></div>
