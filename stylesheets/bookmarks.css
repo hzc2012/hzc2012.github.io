@@ -2,13 +2,26 @@
 	margin-top: 15px;
     color: #ccc;
 }
+/*
 .hideshow:hover{
     color: #fff;
 	cursor: pointer;
 }
-#bookmark {
+*/
+#bmframe {
     color: #fff;
 	height: 100%;
 	width: 900px;
 	margin: auto;
+}
+
+table.blueTable {
+	width: 100%;
+	text-align: left;
+	border-collapse: collapse;
+}
+table.blueTable td, table.blueTable th {
+	width: 80px;
+	border: 1px solid #fff;
+	padding: 2px 2px;
 }
